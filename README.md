@@ -1,5 +1,7 @@
 # pbs-project
 
+Authors: Elham Amin Mansour and Akshan Naraya
+
 This version of the PBS framework has been modified to run a computationally demanding rigid body simulation without a GUI, and can therefore be run on systems such as ETH's Euler cluster.
 
 Set up (assuming current directory is `pbs-project`):
