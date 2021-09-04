@@ -1,0 +1,10 @@
+build/
+CMakeSettings.json
+.DS_Store
+.vs
+.vscode
+.clang-format
+*.aux
+*.log
+*.gz
+*.out
